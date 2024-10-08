@@ -7,9 +7,9 @@ function despedir () {
 } despedir ();
 
 // 1.2 Crea una función llamada `multiplicarPorDos` que tome un número como parámetro y devuelva el doble de ese número.
-function multiplicarPorDOS(n){
+function multiplicarPorDos(n){
     return 2*n;
-} multiplicarPorDOS(4);
+} multiplicarPorDos(4);
 
 // 1.3 Crea una función llamada `esMayorDeEdad` que tome un número como parámetro y devuelva `true` si es mayor de 18, o `false` en caso contrario.
 function esMayorDeEdad(n) {
